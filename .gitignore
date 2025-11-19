@@ -1,0 +1,13 @@
+/target/
+*.class
+*.log
+*.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+
+# Maven
+log/
+release.properties
