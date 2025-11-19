@@ -12,3 +12,15 @@
 ## Как запустить
 1. Склонируйте репозиторий
 2. В корне проекта выполните:
+
+mvn package mvn exec:java -Dexec.mainClass="com.example.snake.Main"
+
+Или запустите из IDE (класс `com.example.snake.Main`).
+
+
+## Структура
+(описание файлов — в репозитории)
+
+
+## Лицензия
+MIT
